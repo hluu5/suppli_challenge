@@ -1,0 +1,19 @@
+.agile-board-table{
+  border-collapse: collapse;
+}
+
+.agile-board-table td,
+.agile-board-table th {
+  border: 1px solid black;
+  padding: 10px;
+}
+
+.agile-board-table th {
+  background-color: cornflowerblue;
+  color: white;
+}
+
+.repo-button {
+  padding: 0.5rem;
+  margin: 0.5rem 0.5rem 0.5rem 0;
+}
